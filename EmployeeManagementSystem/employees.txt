@@ -1,0 +1,3 @@
+----Hospital Management System----
+Doctor: Alice,101,Surgery,Cardiology
+Nurse: Bob,102,Emergency

@@ -1,0 +1,126 @@
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Alice
+Id: 101
+Job: Surgery
+specialization: Cardiology
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: nia
+Id: 713
+Job: pussy
+specialization: doctor
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: valai Willie 
+Id: 108
+Job: Him 
+specialization: Heart 
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai 
+Id: 1004
+Job: him
+specialization: him
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai 
+Id: 1002
+Job: dd
+specialization: Idk
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai 
+Id: 1002
+Job: him
+specialization: Heart Doc
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: valai Willei
+Id: 1002
+Job: Cardiology
+specialization: Emergency 
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: vvv
+Id: 22
+Job: ll
+specialization: lll
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: hi 
+Id: 100
+Job: ll
+specialization: hh
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai 
+Id: 100
+Job: him
+specialization: Heart
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: valai 
+Id: 1002
+Job: kk
+specialization: Him 
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai 
+Id: 1100
+Job: him
+specialization: heart
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai 
+Id: 100
+Job: bofy
+specialization: ER 
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: sam
+Id: 55
+Job: legs
+specialization: hr
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Vaal
+Id: 11
+Job: kk
+specialization: cc
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: valai
+Id: 100
+Job: kk
+specialization: jj
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: valai
+Id: 11
+Job: ll
+specialization: jj
+--------------------
+--YOUR DOC DETAILS :}-- 
+__Doctor__ 
+Name: Valai Willie
+Id: 1273752
+Job: kk
+specialization: jj
+--------------------
